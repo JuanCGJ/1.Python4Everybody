@@ -1,5 +1,5 @@
 # Python4Everybody
-Coursera: Specialized Course - Python4everybody.
+Coursera Specialized Course - Python4everybody.
 Course 1: Programming4E
 
 Here you will find descriptions and solutions of each week's assignements in the Course. Aditionaly you will find pythonlearn.pdf (English, Spanish) to support studies.
