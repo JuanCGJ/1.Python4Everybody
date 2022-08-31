@@ -1,7 +1,7 @@
 # Python4Everybody
 Coursera: Specialized Course - Python4everybody.
 
-Here you will find descriptions and solutions of each week's assignements of Python4Everybody Coursera Specialzied Course.
+Here you will find descriptions and solutions of each week's assignements of Python4Everybody Coursera Specialzied Course. Aditionaly you will find pythonlearn.pdf (English, Spanish) to support studies.
 
 Week4: Write a program to prompt the user for hours and rate per hour using input to compute gross pay:
 
